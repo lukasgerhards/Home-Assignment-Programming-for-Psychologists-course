@@ -14,9 +14,9 @@ Date: 02.12.2024
 
 The following project analyzes fMRI (functional magnetic resonance imaging) data that depicts the intensity of activation through and the regions associated with a depression disorder through a statistical map and Histogram that represents the frequency of (positive) Voxel intensity values to understand the value distribution. The data stems from an online database ([link](https://neurosynth.org/)) and includes anatomical and functional data. This task was to showcase my knowledge and skills of handling files and implementing the corresponding code, visualizing fMRI data (here on a dataset representing activity in depression) and analyzing the data in form of a Histogram with an ellaborate, discriptive and precise code.
 
-##Table of content:
+## Table of content:
 
-1.ReadMe: ReadMe file
+1. ReadMe: ReadMe file
 
 2. Data Files: data downloaded and accessed (02.12.2024) through Neurosynth,([link](https://neurosynth.org/analyses/terms/depression/))
 
@@ -24,7 +24,7 @@ The following project analyzes fMRI (functional magnetic resonance imaging) data
 
 4. Output Visualizations: image files of visualizations, including (1) brain map, and (2) histogram.
 
-##Python packages: 
+## Python packages: 
 
 1. OS: directory operation & file handling
    
