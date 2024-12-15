@@ -16,13 +16,15 @@ The following project analyzes fMRI (functional magnetic resonance imaging) data
 
 ## Table of content:
 
-1. ReadMe: ReadMe file
+1. Output Visualizations: image files of visualizations, including (1) brain map, and (2) histogram.
 
-2. Data Files: data downloaded and accessed (02.12.2024) through Neurosynth,([link](https://neurosynth.org/analyses/terms/depression/))
+2. Jupiter Notebook: contains the code with markdowns for explanation
 
-3. Jupiter Notebook: contains the code with markdowns for explanation
+3. PullRequest_evidence: showcasing Pullrequest handling
 
-4. Output Visualizations: image files of visualizations, including (1) brain map, and (2) histogram.
+4. ReadMe: ReadMe file
+
+5. Data Files: data downloaded and accessed (02.12.2024) through Neurosynth,([link](https://neurosynth.org/analyses/terms/depression/))
 
 ## Python packages: 
 
